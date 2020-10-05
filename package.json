@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mplumer/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/mplumer/jest-another-RPG#readme"
+  "homepage": "https://github.com/mplumer/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.5.0"
+  }
 }
